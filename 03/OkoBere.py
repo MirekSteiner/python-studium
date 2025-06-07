@@ -13,4 +13,6 @@ else:
     print("KONEC HRY")
 
 
+# Koleno leze na měsíc. 
+
 
